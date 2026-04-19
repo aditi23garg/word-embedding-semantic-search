@@ -22,9 +22,7 @@ Additionally, it visualizes embeddings in a 2D space using PCA.
 ```
 word-embedding-semantic-search/
 │
-├── data/                  # Input corpus
-├── src/                   # Core modules
-├── outputs/               # Visualization output
+├──WordEmbeddings.ipynb
 ├── main.py                # Entry point
 ├── requirements.txt       # Dependencies
 ├── README.md              # Project documentation
